@@ -1,1 +1,1 @@
-# Building a website with Node.js and Express
+# Building a web application with Node.js and Express
