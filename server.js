@@ -1,3 +1,4 @@
+/* added cookie session and maintaining routes for feedback and speakers */
 const express = require('express');
 
 const path = require('path');
