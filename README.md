@@ -1,1 +1,3 @@
-# Building a web application with Node.js and Express
+# Building a web application
+
+##Technologies used are Node.js, Express.js and HTML
